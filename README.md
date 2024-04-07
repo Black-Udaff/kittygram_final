@@ -64,4 +64,4 @@ nginx
 Docker
 Docker compose
 
-## Автор: Alex Kazemirenko https://github.com/Black-Udaff
+##  Автор: Alex Kazemirenko https://github.com/Black-Udaff
